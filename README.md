@@ -60,6 +60,5 @@
 ## 📊 GitHub Stats (optional)
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chucdo&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=chucdo" />
 </div>
 
