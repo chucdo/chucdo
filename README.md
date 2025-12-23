@@ -96,8 +96,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chucdo&hide_border=true&area=true" />
-
 </div>
 
 ---
