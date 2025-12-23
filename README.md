@@ -78,12 +78,8 @@
 <div align="center">
 
 <img height="168" src="https://github-readme-stats.vercel.app/api?username=chucdo&show_icons=true&include_all_commits=true&rank_icon=github" />
-<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=chucdo" />
 
 <br/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chucdo&layout=compact&langs_count=10" />
-
 </div>
 
 ---
