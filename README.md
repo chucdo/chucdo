@@ -63,4 +63,4 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=chucdo" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chucdo&stats_format=bytes)
