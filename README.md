@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /cv/
+permalink: /README/
 layout: single
 classes: wide
 ---
