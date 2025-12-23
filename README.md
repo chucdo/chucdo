@@ -1,12 +1,9 @@
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Đỗ%20Công%20Chức&fontSize=44&fontAlignY=35&desc=Flutter%20Developer%20•%20BLoC%20/%20GetX%20•%20Clean%20Architecture&descAlignY=60)
 
-<!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Đỗ%20Công%20Chức&fontSize=42&fontAlignY=35&desc=Flutter%20Developer%20•%20BLoC%20/%20GetX%20•%20Clean%20Architecture&descAlignY=58)
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Flutter+Developer+%F0%9F%9A%80;BLoC+(main)+%7C+GetX+%7C+Provider;Clean+Architecture+%7C+DI+(get_it%2C+injectable);Ads+%2F+Tracking+%2F+Bidding+%7C+IAP+%7C+Native+Bridge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=780&lines=Flutter+Developer+%F0%9F%9A%80;BLoC+(main)+%7C+GetX+%7C+Provider;Clean+Architecture+%7C+DI+(get_it%2C+injectable);Ads+%2F+Tracking+%2F+Bidding+%7C+IAP+%7C+Native+Bridge;Performance+%2F+Memory+Optimization+%7C+Codegen+%28freezed%2Fjson_serializable%29" />
 
 <br/>
 
@@ -23,57 +20,51 @@
   <img src="https://img.shields.io/badge/Facebook-tlukirito-111827?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<br/>
-<b>📍 Đại Thành, Quốc Oai, Hà Nội</b> • <b>🎂 29/08/2000</b> • <b>📄 CV/Portfolio:</b> https://chucdo.github.io/cv/
+<br/><br/>
+
+<b>📍 Đại Thành, Quốc Oai, Hà Nội</b> &nbsp;•&nbsp; <b>🎂 29/08/2000</b> &nbsp;•&nbsp; <b>📄 CV/Portfolio:</b> <a href="https://chucdo.github.io/cv/">chucdo.github.io/cv</a>
 
 </div>
 
 ---
 
-## ✨ About
-- Flutter dev tập trung **BLoC**, Clean Architecture, DI (get_it/injectable)
-- Mạnh phần **performance/memory**, codegen (freezed/json_serializable)
-- Làm nhiều app có **Ads / Tracking / Bidding / IAP**, và **bridge native** (Android / iOS SwiftUI/UIView)
-- Có kinh nghiệm **mentor / review code**
+<!-- ===================== QUICK OVERVIEW ===================== -->
+## ⚡ Snapshot
+- **Flutter Developer** (3+ years) • mạnh **BLoC**, Clean Architecture, DI (**get_it / injectable**)
+- Tối ưu **performance/memory**, codegen (**freezed / json_serializable**)
+- Kinh nghiệm **Ads / Tracking / Bidding / IAP**, **bridge native** (Android / iOS SwiftUI/UIView)
+- Có kinh nghiệm **mentor / review code** cho fresher/intern
 
 ---
 
-## 🧰 Tech Stack (icons)
+<!-- ===================== STACK ===================== -->
+## 🧰 Tech Stack
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,git,firebase,postman,figma&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,git,firebase,postman,figma&perline=8" />
 </div>
 
 ---
 
-## 🧩 Featured Repos
-- RFID Library: https://github.com/chucdo/Urovo_scan  
-- Clean Architecture Base: https://github.com/chucdo/flutter_clean_base  
+<!-- ===================== SPOTLIGHT ===================== -->
+## 🌟 Spotlight (Best Repos)
+- **RFID Library** → https://github.com/chucdo/Urovo_scan  
+- **Flutter Clean Base** → https://github.com/chucdo/flutter_clean_base  
 
 ---
 
-**Architecture**
-- BLoC, GetX, Provider
-- Clean Architecture, SOLID, Design Patterns
-- DI: get_it, injectable
-
-**Tools**
-- Git/GitFlow, Jira/Trello, Figma, Postman/Swagger
-
----
-
-## 🏆 Featured Projects (Repo)
-- RFID Library: https://github.com/chucdo/Urovo_scan  
-- Clean Architecture Base: https://github.com/chucdo/flutter_clean_base  
-
----
-
-## 📱 Apps on Store (selected)
+<!-- ===================== APPS ===================== -->
+## 📱 Apps on Store (Selected)
+**HR/ERP & Business**
 - EasyHrm (App Store): https://apps.apple.com/vn/app/easyhrm/id1666225914?l=vi  
+
+**Job / Social**
 - Hello Job (Google Play): https://play.google.com/store/apps/details?id=org.nativescript.HelloJob  
+
+**Utilities**
 - SmartLight (Google Play): https://play.google.com/store/apps/details?id=com.abi.booklight&hl=vi&gl=US  
 - Al-plancha (Google Play): https://play.google.com/store/apps/details?id=com.cfi.la_plancha  
+
+**Creative / Sticker**
 - ISticker (Google Play): https://play.google.com/store/apps/details?id=com.isticker.sticker.maker&hl=en-VN  
 - Floralwhisper (App Store): https://apps.apple.com/vn/app/floralwhisper-lovely-language/id6504385346?l=vi  
 - Zumee (App Store): https://apps.apple.com/vn/app/zumee-lockscreen-drawing/id6502684901  
@@ -82,39 +73,28 @@
 
 ---
 
-## 📊 GitHub Stats (optional)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chucdo&show_icons=true&hide_title=true" />
-</div>
-
-
-## 📊 Stats
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chucdo&show_icons=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chucdo" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=chucdo&show_icons=true&include_all_commits=true&rank_icon=github" />
+<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=chucdo" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chucdo&layout=compact&langs_count=10" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chucdo&layout=compact&langs_count=10" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+<!-- ===================== TROPHIES + GRAPH ===================== -->
+## 🏆 Achievements & Activity
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=chucdo&row=1&column=7&margin-w=10&margin-h=10" />
 
-</div>
-
----
-
-## 📈 Activity Graph (last 31 days)
-<div align="center">
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chucdo&hide_border=true&area=true" />
 
@@ -122,6 +102,7 @@
 
 ---
 
+<!-- ===================== SNAKE ===================== -->
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chucdo/chucdo/output/dist/github-contribution-grid-snake-dark.svg" />
@@ -131,6 +112,8 @@
 
 ---
 
-<!-- Animated Footer -->
+<div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
+</div>
